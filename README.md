@@ -5,9 +5,9 @@ class Github {
 
     public Reksix()
     {
-        String[] knownLanguages = {"Java", "Lua", "C#", "Python", "Arduino"};
+        String[] knownLanguages = {"Java", "Lua", "C#", "C++", "Python", "Arduino"};
         String[] knownEngines = {"Unity", "Unreal"};
-        String[] languagesIWantToLearn = {"C++", "JavaScript"};
+        String[] languagesIWantToLearn = {"JavaScript"};
     }
 }
 ```
