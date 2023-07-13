@@ -1,5 +1,5 @@
 ```java
-class Reksix {
+class Github {
 
     public Reksix()
     {
