@@ -3,7 +3,7 @@
 ```java
 class Github {
 
-    public Reksix()
+    public void Reksix()
     {
         String[] knownLanguages = {"Java", "Lua", "C#", "C++", "Python", "Arduino"};
         String[] knownEngines = {"Unity", "Unreal"};
